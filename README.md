@@ -1,6 +1,6 @@
 # sanae 早苗 — field-agriculture robotics
 
-Canonical repository: `etzhayyim/actor-sanae`. Sanae is the bounded
+Canonical repository: `cloud-itonami/actor-sanae`. Sanae is the bounded
 field-agriculture robotics organ of the Tamaki-centered Etzhayyim artificial
 organism. It remains design-only: Tamaki retains organism authority, and live
 robotic actuation remains behind the manifest's human, witness, and
